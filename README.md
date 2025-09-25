@@ -1,6 +1,6 @@
 <img src="banner_github1.gif" alt="GitHub Banner" width="100%" height="30%" />
-<h1>Hello World!, I'm Hamza EL FEHRI, a Maroccan Web Developer 👋🏼</h1>
-<p>👨🏼‍🎓Studying in professional bachelor's degree in computer science and applied mathematics.</p>
+<h1>Hello World!, I'm Hamza EL FEHRI, Web Developer 👋🏼</h1>
+<p>👨🏼‍🎓Studying in Master 1 in expert in software architecture and development.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
